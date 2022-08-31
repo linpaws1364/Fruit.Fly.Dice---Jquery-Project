@@ -10,6 +10,6 @@ This project is Fruit dicing game. The player has to hover on the fruits coming 
 
 HTML, CSS and Jquery
 
-Demonstration Video
+# Demonstration Video
 
 https://user-images.githubusercontent.com/101203567/187597052-d1df5fe8-bfbc-466b-babb-cf78979a3563.mp4
