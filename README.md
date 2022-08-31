@@ -4,7 +4,7 @@ Welcome to my Project, please access the live project using this link - https://
 
 # Features 
 
-This project is Fruit dicing game. The player has to hover on the fruits coming from the top at varying speed to dice them and score points. Each player has 3 lives. If the player misses to dice one fruit, life count decreases by 1. If user misses the fruits thrice, the game is over and the total score is displayed on the screen.
+This project is a Fruit dicing game. The player has to hover on the fruits coming from the top at varying speeds to dice them and score points. Each player has 3 lives. If the player misses dicing one fruit, the life count decreases by 1. If the user misses the fruits thrice, the game is over and the total score is displayed on the screen.
 
 # TechStack
 
