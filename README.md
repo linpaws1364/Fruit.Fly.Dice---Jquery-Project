@@ -1,6 +1,6 @@
 # Fruit.Fly.Dice---jQuery-Project
 
-Welcome to my Project, please access the live project using this link - https://linpaws1364.github.io/Fruit.Fly.Dice---Jquery-Project/
+Welcome to my Project, please access the live project using this link - https://linpaws1364.github.io/Fruit.Fly.Dice---jQuery-Project/
 
 # Features 
 
