@@ -8,7 +8,7 @@ This project is Fruit dicing game. The player has to hover on the fruits coming 
 
 # TechStack
 
-HTML, CSS and Jquery
+HTML, CSS and jQuery
 
 # Demonstration Video
 
